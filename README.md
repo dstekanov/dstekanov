@@ -20,7 +20,7 @@ I'm passionate about building AI agents that help QA engineers focus on the prod
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dmytrostekanov/)
 - 🐦 [X / Twitter](https://x.com/dmytrostekanov)
-- ✍️ [Medium](https://medium.com/@dstekanov)
+- ✍️ [Medium](https://medium.com/@dstekanov.tech)
 - 📬 [Substack](https://dstekanov.substack.com/)
 
 ---
